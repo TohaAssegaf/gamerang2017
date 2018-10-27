@@ -1,6 +1,6 @@
 # BunnyRunTut
 
-Ini buatan gw
+Ini buatan gw lho.
 
 This is the source code for the "Run Bunny, Run!" creating a 2D game in Unity tutorial.
 
